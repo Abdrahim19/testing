@@ -140,7 +140,7 @@ margin-bottom: .5rem;
   .box_container {
     position: relative; 
     z-index: 1;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
     background-color: transparent;
     border-radius: 3rem;
     display: flex;
