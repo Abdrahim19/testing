@@ -191,6 +191,7 @@ margin-bottom: .5rem;
   }
   .auth_img {
     height: 21rem;
+    border-radius: 2rem 2rem 0 0;
     display: flex;
   }
   .container {
